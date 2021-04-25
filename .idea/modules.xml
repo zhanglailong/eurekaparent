@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eurake-node2/eurake-node2.iml" filepath="$PROJECT_DIR$/eurake-node2/eurake-node2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurake-node3/eurake-node3.iml" filepath="$PROJECT_DIR$/eurake-node3/eurake-node3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-node1/eureka-node1.iml" filepath="$PROJECT_DIR$/eureka-node1/eureka-node1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaparent.iml" filepath="$PROJECT_DIR$/eurekaparent.iml" />
+    </modules>
+  </component>
+</project>
